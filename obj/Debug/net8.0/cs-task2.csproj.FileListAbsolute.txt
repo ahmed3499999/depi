@@ -1,0 +1,14 @@
+D:\Projects\depi\cs-task2\bin\Debug\net8.0\cs-task2.exe
+D:\Projects\depi\cs-task2\bin\Debug\net8.0\cs-task2.deps.json
+D:\Projects\depi\cs-task2\bin\Debug\net8.0\cs-task2.runtimeconfig.json
+D:\Projects\depi\cs-task2\bin\Debug\net8.0\cs-task2.dll
+D:\Projects\depi\cs-task2\bin\Debug\net8.0\cs-task2.pdb
+D:\Projects\depi\cs-task2\obj\Debug\net8.0\cs-task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\depi\cs-task2\obj\Debug\net8.0\cs-task2.AssemblyInfoInputs.cache
+D:\Projects\depi\cs-task2\obj\Debug\net8.0\cs-task2.AssemblyInfo.cs
+D:\Projects\depi\cs-task2\obj\Debug\net8.0\cs-task2.csproj.CoreCompileInputs.cache
+D:\Projects\depi\cs-task2\obj\Debug\net8.0\cs-task2.dll
+D:\Projects\depi\cs-task2\obj\Debug\net8.0\refint\cs-task2.dll
+D:\Projects\depi\cs-task2\obj\Debug\net8.0\cs-task2.pdb
+D:\Projects\depi\cs-task2\obj\Debug\net8.0\cs-task2.genruntimeconfig.cache
+D:\Projects\depi\cs-task2\obj\Debug\net8.0\ref\cs-task2.dll
